@@ -1,0 +1,619 @@
+{
+  "GDates": [
+    {
+      "Id": "6b949796-d44c-4e3f-b23b-1463e1b6500c",
+      "Date": "21/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "aa587a44-7794-45fa-b51a-ea7173b36681",
+      "Date": "22/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d30c2cbf-93c6-4f8a-86e1-9679c1d97a98",
+      "Date": "23/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "a58ff876-7ffd-4139-b489-d8818ec65aa3",
+      "Date": "24/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "632426b9-c2eb-4886-818f-e21f92882471",
+      "Date": "25/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "4853827c-05b9-458a-b716-a30f2291f3ac",
+      "Date": "26/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "5fcbce9b-cdf1-4a65-ab66-3fcbf3fa914e",
+      "Date": "27/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "b56ff1ce-99ec-4113-a6fe-5f37ed9905c9",
+      "Date": "28/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "54bbaadb-6252-49b7-8e72-dfd4a99c4db1",
+      "Date": "21/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "de91bf5e-7514-4b06-ab0f-1a45764b7247",
+      "Date": "22/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "476395c8-e223-4140-94bb-c8d2db6a8136",
+      "Date": "23/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "94432ebf-1c9c-4f3f-86f1-44bbbde4c41d",
+      "Date": "24/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "9448bce6-7ae5-47cb-8ec9-a927d00b062d",
+      "Date": "25/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "9eb20f06-ebbf-499d-a669-38bad46e5486",
+      "Date": "26/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "1d7ce836-dcf6-4c91-899e-97727933a506",
+      "Date": "27/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "fbc292b3-292d-4b68-832e-c4216b012abe",
+      "Date": "28/02/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "abfb7edc-ec6c-4989-b614-972b28d86918",
+      "Date": "01/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "cca592a0-ef21-4f26-afb1-8e64c2880d09",
+      "Date": "02/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "7f04c1ff-1a67-45f4-8921-65f4a96b0408",
+      "Date": "03/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d4663558-9e28-441d-b058-c284f74ad279",
+      "Date": "04/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d7ceb783-9422-4e27-9835-4fc07c1da6e3",
+      "Date": "05/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "c16390de-333f-4375-b77c-c02ad8666ec4",
+      "Date": "06/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "a57cc74d-69aa-42f1-98b5-6662c1f8122a",
+      "Date": "07/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "23bfef3d-c75d-4831-b0e8-5b9ee9e8e44e",
+      "Date": "08/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "40e07512-d05f-4f2c-bfbb-41646a35a9f2",
+      "Date": "09/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "344d5318-af26-4a61-bae9-5fd9486f372f",
+      "Date": "10/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "8c925d28-d34b-4f04-ac5e-f4abb9e62c1f",
+      "Date": "11/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "79840dec-5604-40a9-a5d5-cad0e671ef3d",
+      "Date": "12/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "2427a7a8-6727-461c-b6b3-5bf4397459b9",
+      "Date": "13/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ecdd233c-95dc-4eb9-b2e9-38c9b027410e",
+      "Date": "14/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "4c7bb60b-687f-498d-bfc5-ec0cc6131797",
+      "Date": "15/03/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "685731a5-18bb-4296-a3d8-9cdf46d307a7",
+      "Date": "21/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "24e9ceaf-0b69-4b91-ad68-504fc050fde7",
+      "Date": "22/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "9943faa0-d600-4143-8164-1cb30d440981",
+      "Date": "23/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "865b694a-8067-4134-ba02-271bd7394f15",
+      "Date": "24/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ad5acb73-5fdc-4b30-b32a-234691479270",
+      "Date": "25/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "21684096-329c-43f0-80aa-0a42dbd48f65",
+      "Date": "26/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "5c41d71e-4eb0-4ddf-b8f6-ff793e1bd86e",
+      "Date": "27/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "c332178d-dd73-43c3-b4d2-ccba136c2476",
+      "Date": "28/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "7ebdeff2-3f91-48df-8c70-00a744b86a92",
+      "Date": "01/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ef897c8b-d206-43bd-b9e0-2fd632e5f929",
+      "Date": "02/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "f98f2329-93eb-4f89-8076-f86ed186611a",
+      "Date": "03/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "33275df6-859e-4a71-9fa0-56c46193a140",
+      "Date": "04/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "b06f9b55-4e1f-4bd8-b539-5a207178eae7",
+      "Date": "05/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "78af3750-9e09-4839-b74f-59699a29ae9a",
+      "Date": "06/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "24beaf1b-9187-46e0-94a7-5d8c569f9824",
+      "Date": "07/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "464859ed-4ea9-451b-911a-3d6507fbfc4c",
+      "Date": "08/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "167b3ed9-e1b7-4a12-b2b2-c7e2a7bd7ea5",
+      "Date": "09/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "9b4d9e7c-8eb4-4de7-a512-e81ceccdce2a",
+      "Date": "10/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "00983b56-c6ef-44b2-9664-c99b841be6f8",
+      "Date": "11/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "899ff0f6-3d74-448a-9b49-224740de1ab8",
+      "Date": "12/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "af952090-81cc-4304-9956-29ea55754d13",
+      "Date": "13/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "2280d60e-af1e-4982-96cc-3738796a1ccd",
+      "Date": "14/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "7310514b-976e-49c8-b5a5-55b88fef4124",
+      "Date": "15/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ab4150e1-7959-4cd3-8dae-6a11c7c906b0",
+      "Date": "21/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "7a87e6a4-b012-4430-b45a-1b81c1cde1e2",
+      "Date": "22/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "556c268d-61a1-4203-ac13-70a6fb2afd74",
+      "Date": "23/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "bb8894f1-2a6d-4e65-baaf-398c58274112",
+      "Date": "24/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "4871c5de-380b-4f28-b463-f63ddc037c3e",
+      "Date": "25/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "fa74b0f9-f210-4642-9f9f-8487f1f2385d",
+      "Date": "26/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "b9763498-a3a5-4b2d-960e-a4296942ecad",
+      "Date": "27/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "60c7dedf-9da8-4430-81f7-45333e600b2c",
+      "Date": "28/Feb/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d5f59954-7fd5-4b00-a7a4-3214a9f06e31",
+      "Date": "01/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "c8c547da-d1a5-4875-802b-9b4b1a756cc8",
+      "Date": "02/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "3b71116b-100e-4c2d-8692-e2b0e2f1f492",
+      "Date": "03/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "394a57c9-f9c2-48f2-bdcf-9ee17bd52717",
+      "Date": "04/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "60029cf4-4148-4ab7-9b11-aed29a2d353a",
+      "Date": "05/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "46c12d5f-93d3-417b-ae33-6128493611b1",
+      "Date": "06/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d6c549cf-0f60-4c74-9550-215bfc525993",
+      "Date": "07/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "dbd64bd3-463f-4f4d-84a2-2b8f2aa738f3",
+      "Date": "08/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "bdad061e-3214-4ee1-9c57-59bf69f4ddf6",
+      "Date": "09/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "dd099085-acad-4ea7-8615-82255a35dcd4",
+      "Date": "10/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "74fdc64d-5bb2-4cee-b8ec-4248fb2fe880",
+      "Date": "11/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "4c22c856-d09b-42fe-b942-2cffe63b03cb",
+      "Date": "12/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "9f115726-3a33-4f30-bfe2-2ed02e04b142",
+      "Date": "13/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "870c0a60-cf2d-4e25-9605-da1fff69c5ff",
+      "Date": "14/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ee9088f8-4d9d-4a15-ac40-cd5788c16df0",
+      "Date": "15/Mar/2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ae1beac7-4a4a-41c3-a620-0b76f44d6e57",
+      "Date": "Fri-21-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "6c734955-9f02-4a91-a813-cbd89e296532",
+      "Date": "Sat-22-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "59bf138e-86b4-46e3-b94d-dfc5993c97a8",
+      "Date": "Sun-23-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "0f7290ef-63f3-4718-9d05-10e5196f8e7f",
+      "Date": "Mon-24-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "892499e9-3f7a-451a-b55f-e5abc062acb5",
+      "Date": "Tue-25-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "748f3088-5412-4603-924c-6c7cb8666b9f",
+      "Date": "Wed-26-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "fd28f70b-8e4b-4dad-81ce-51e326b497bc",
+      "Date": "Thu-27-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "634d7eae-f8ac-42f6-90ae-45c8ceaafd8c",
+      "Date": "Fri-28-Feb-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d812e8a3-0b23-4ec9-a710-79f41590601f",
+      "Date": "Sat-01-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "be68db72-88cb-45b3-b2fb-1e4b7970ae1c",
+      "Date": "Sun-02-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "22bba604-ee7d-4cca-80b4-dbddca5aa1d6",
+      "Date": "Mon-03-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "3a225b6c-0755-40d5-afb6-4ee71531cce3",
+      "Date": "Tue-04-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "f2669af4-1920-4915-b413-86a051034907",
+      "Date": "Wed-05-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "f7a8b5ca-fcd1-45c0-8cb6-1f19f7ab2848",
+      "Date": "Thu-06-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "454671a8-0713-4992-a443-b2e0bcbb8904",
+      "Date": "Fri-07-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "e11f88f0-d73a-4790-a22a-9969312b59fc",
+      "Date": "Sat-08-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "ecb00714-f077-420e-bda5-94fb47d6f27e",
+      "Date": "Sun-09-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "516bc9aa-2576-4108-96cc-aadf107d7b1a",
+      "Date": "Mon-10-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "70a55a2d-9ef9-49b4-a0d0-d3696a0948b2",
+      "Date": "Tue-11-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "accc6ffc-15a1-4ff7-835b-becad341b851",
+      "Date": "Wed-12-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "c904c4c3-8514-4ae5-89f3-a0d1bd7e6b85",
+      "Date": "Thu-13-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "0427d1b2-51bb-4438-ac77-68b3bb14f188",
+      "Date": "Fri-14-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "dc607c05-5218-4a4b-957b-d2079645d095",
+      "Date": "Sat-15-Mar-2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "b369d43b-9ffd-440d-88ef-e505b6d7e552",
+      "Date": "Fri 21 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "62f62176-ce92-4839-869b-7dc29b3e5d14",
+      "Date": "Sat 22 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "1a203f38-3ca6-40a0-8e1a-b5117afc037e",
+      "Date": "Sun 23 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "93dd05f0-fe20-4f21-b257-e67a55238f0b",
+      "Date": "Mon 24 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d783e638-d7c3-4ba0-b005-519d2873ba56",
+      "Date": "Tue 25 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "c0d0d8bd-3849-45c7-9228-036bef6e5d32",
+      "Date": "Wed 26 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "1a3dda37-d9e9-452f-82c8-5bcaa5b5053c",
+      "Date": "Thu 27 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "08c46a1b-9da9-4ee3-88e7-6e3195cb6e6a",
+      "Date": "Fri 28 Feb 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "4017802a-3f60-458c-adbc-12b65ddf0fd7",
+      "Date": "Sat 01 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "71fe75e2-6348-49dd-827c-53468d953609",
+      "Date": "Sun 02 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "21ae7634-e171-45b8-8f5c-cf487e26b18f",
+      "Date": "Mon 03 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "359233e3-5dac-4dff-9023-ee3bca2b5530",
+      "Date": "Tue 04 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "6a152a82-0a4d-47c8-8f54-0ba955439bac",
+      "Date": "Wed 05 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "3f9cdfaa-5579-4c3b-91ac-2c5227aace8b",
+      "Date": "Thu 06 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "39d0fd6b-7f7e-47e7-ae0e-bec036b30c75",
+      "Date": "Fri 07 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "f6024f8b-659e-4835-9a0d-5271e1bdad2d",
+      "Date": "Sat 08 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "24d6e398-5817-4eca-b8bc-26f35670d7db",
+      "Date": "Sun 09 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "64331474-1940-4458-994f-c016f74658ad",
+      "Date": "Mon 10 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "489af91f-ebcd-4dde-aac7-d97bb8786538",
+      "Date": "Tue 11 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "9789e284-a24f-4b81-8f0b-312a7b69727a",
+      "Date": "Wed 12 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "2b7a839a-887b-442a-9753-833281fe1ebb",
+      "Date": "Thu 13 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "d9b63317-492d-4ded-8bb3-59230ce836c5",
+      "Date": "Fri 14 Mar 2025",
+      "Description": "Not Available"
+    },
+    {
+      "Id": "7544e26b-b3fd-43dc-9fe0-99b1db5871bd",
+      "Date": "Sat 15 Mar 2025",
+      "Description": "Not Available"
+    }
+  ]
+}
