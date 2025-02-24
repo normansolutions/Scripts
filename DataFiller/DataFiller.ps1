@@ -61,10 +61,10 @@ function Create-JsonEntries {
 }
 
 # Example usage
-$startDate = [DateTime]::Parse("06-12-2025")  # Define the start date
+$startDate = [DateTime]::Parse("06-11-2025")  # Define the start date
 $endDate = [DateTime]::Parse("06-12-2025")    # Define the end date
-$jsonFilePath = "$PSScriptRoot\GData\data\gdata.js"  # Path to the JSON file
-$description = "Already Gig Booked"  # Description for each entry
+$jsonFilePath = "$PSScriptRoot\data\gdata.js"  # Path to the JSON file
+$description = "Data Entry Date"  # Description for each entry
 
 # Call the function to create JSON entries
 Create-JsonEntries -StartDate $startDate -EndDate $endDate -JsonFilePath $jsonFilePath -Description $description
