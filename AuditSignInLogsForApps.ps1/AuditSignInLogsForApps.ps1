@@ -36,7 +36,7 @@
 #>
 param (
     # Specify the number of past days to query for sign-in logs
-    [int]$DaysToQuery = 2,
+    [int]$DaysToQuery = 30,
 
     # Specify the directory path for the Excel export
     [string]$ExportPath = $env:TEMP
